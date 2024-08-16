@@ -5,9 +5,11 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com  
 DOMAIN-SUFFIX,hao123.com  
+DOMAIN-SUFFIX,wogg.net         
+DOMAIN-SUFFIX,wogg.xxooo.cf  
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,baidu  
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve  
@@ -17,18 +19,12 @@ DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve  
 IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve  
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
-
-# Small
-DOMAIN-SUFFIX,wogg.net   
-
-
-
 
 
 # 360
