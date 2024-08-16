@@ -3,14 +3,14 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,lanzov.com  
+DOMAIN-SUFFIX,hao123.com  
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,219.146.1.66/32,no-resolve  
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -24,9 +24,15 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+# Small
+DOMAIN-SUFFIX,wogg.net   
+
+
+
+
 
 # 360
-DOMAIN-SUFFIX,360.com
+DOMAIN-SUFFIX,360.com  
 DOMAIN-SUFFIX,360kuai.com
 DOMAIN-SUFFIX,360safe.com
 DOMAIN-SUFFIX,dhrest.com
