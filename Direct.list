@@ -23,10 +23,10 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve  
 IP-CIDR,114.114.115.115/32,no-resolve    
 
-
 # OK
 DOMAIN-SUFFIX,wogg.net
 DOMAIN,dadada.acaisbest.com
+
 # PDD 拼多多
 DOMAIN-SUFFIX,pinduoduo.com  
 DOMAIN-SUFFIX,yangkeduo.com
