@@ -25,7 +25,7 @@ IP-CIDR,114.114.115.115/32,no-resolve   
 
 
 # 影视
-
+DOMAIN-SUFFIX,wogg.net
 
 # PDD 拼多多
 DOMAIN-SUFFIX,pinduoduo.com  
