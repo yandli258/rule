@@ -25,6 +25,7 @@ IP-CIDR,114.114.115.115/32,no-resolve   
 
 # OK
 DOMAIN-SUFFIX,wogg.net
+DOMAIN-SUFFIX,tv.999888987.xyz
 DOMAIN,dadada.acaisbest.com
 
 # PDD 拼多多
