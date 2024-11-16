@@ -168,7 +168,7 @@ DOMAIN-SUFFIX,polodns.xyz
 DOMAIN-SUFFIX,nijigem.by
 DOMAIN-SUFFIX,semby.ink
 DOMAIN-SUFFIX,embypaul.top
-DOMAIN-SUFFIX,lzlz.eu.org
+DOMAIN-SUFFIX,lzlz.eu.org  
 DOMAIN-SUFFIX,bgka.me
 DOMAIN-SUFFIX,foxcoo.top
 DOMAIN-SUFFIX,nebulae.top
@@ -183,7 +183,7 @@ DOMAIN-SUFFIX,stream3.misakaf.org
 DOMAIN-SUFFIX,stream4.misakaf.org  
 DOMAIN-SUFFIX,stream_pilipili.misakaf.org
 DOMAIN-SUFFIX,niceduck.me
-DOMAIN-SUFFIX,niceduck.lol
+DOMAIN-SUFFIX,niceduck.lol  
 
 # 日常使用代理匹配
 DOMAIN-SUFFIX,pubs.acs.org          
@@ -194,4 +194,5 @@ IP-CIDR,154.37.213.214/32,no-resolve 
 DOMAIN-SUFFIX,tool.steamui.com
 DOMAIN-SUFFIX,steamdb.info          
 DOMAIN-SUFFIX,xqc.best  
-DOMAIN-SUFFIX,neo.fmta.boo
+DOMAIN-SUFFIX,neo.fmta.boo              
+DOMAIN-SUFFIX,4k.4u4.cn   
