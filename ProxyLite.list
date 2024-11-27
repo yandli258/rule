@@ -199,4 +199,5 @@ IP-CIDR,172.64.153.22/32,no-resolve                              
 DOMAIN-SUFFIX,typeset.io                
 DOMAIN-SUFFIX,consensus.app  
 DOMAIN-SUFFIX,sider.ai
-DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,wiley.com  
+DOMAIN-SUFFIX,acs.org
