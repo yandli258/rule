@@ -186,16 +186,16 @@ DOMAIN-SUFFIX,niceduck.me
 DOMAIN-SUFFIX,niceduck.lol    
 
 # 日常使用代理匹配           
-DOMAIN-SUFFIX,onlinelibrary.wiley.com    
+IP-CIDR,162.159.129.87/32,no-resolve                  
 DOMAIN-SUFFIX,deeplx.missuo.ru  
 DOMAIN-SUFFIX,aca.best  
-IP-CIDR,154.37.213.214/32,no-resolve      
-DOMAIN-SUFFIX,tool.steamui.com  
+IP-CIDR,154.37.213.214/32,no-resolve            
+DOMAIN-SUFFIX,tool.steamui.com    
 DOMAIN-SUFFIX,steamdb.info              
 DOMAIN-SUFFIX,xqc.best            
 DOMAIN-SUFFIX,neo.fmta.boo                          
 DOMAIN-SUFFIX,4k.4u4.cn                                     
 IP-CIDR,172.64.153.22/32,no-resolve                                                      
-DOMAIN-SUFFIX,typeset.io            
+DOMAIN-SUFFIX,typeset.io                
 DOMAIN-SUFFIX,consensus.app  
-DOMAIN-SUFFIX,sider.ai
+DOMAIN-SUFFIX,sider.ai  
